@@ -1,2 +1,1 @@
 xflyer
-study
